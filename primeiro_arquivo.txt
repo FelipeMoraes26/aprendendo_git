@@ -1,0 +1,5 @@
+Ola mundo!
+
+Meu primeiro arquivo com a NewtabAcademy para o exercicio proposto, e onde eu consiga apreender um pouco mais sobre programação, junto ao Git, e seus comandos. 
+
+Obs: o professor poderia usar uma máquina windows, para gente poder acompanhar melhor, pois há alguns comandos que difere do Linux.
